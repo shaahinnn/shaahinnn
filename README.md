@@ -9,7 +9,7 @@
 | Game | What it is |
 | --- | --- |
 | [🌆 Meet Me at Dusk](https://github.com/shaahinnn/Meet-Me-at-Dusk) | A pixel-art 2D platformer in a lantern-lit medieval town. Collect coins and treasure, cross perilous platforms, and avoid spike and blade traps. |
-| [🚀 Last Descent](https://github.com/shaahinnn/Last-Descent) | A 3D sci-fi game set in a futuristic space colony. |
+| [🚀 Last Descent](https://github.com/shaahinnn/Last-Descent) | A 3D Unity sci-fi game in a futuristic space colony. Guide a tiny astronaut across neon-lit platforms and dark industrial areas. |
 | [🏎️ Peakbound](https://github.com/shaahinnn/Peakbound) | A 2D Unity hill-climb game: drive a red car across outdoor and rocky terrain while collecting coins and managing fuel. |
 
 ## 🎯 Games that inspire me
