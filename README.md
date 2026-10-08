@@ -13,7 +13,7 @@
 
 ## 🎯 Games that inspire me
 
-I love combat-focused adventures like *Assassin's Creed* and *Prince of Persia*, along with horror games.
+I love combat-focused adventures like *Assassin's Creed* and *Prince of Persia*, along with horror games like Resident Evil.
 
 ## 🚀 Future goal
 
@@ -25,4 +25,4 @@ I'm learning game development through hands-on Unity projects, exploring 2D driv
 
 ## 🧰 Tools
 
-Unity · C# · ShaderLab
+Unity · C# 
