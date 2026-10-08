@@ -1,21 +1,20 @@
-# Hey, I'm Shahin 👋
+<div align="center">
+  <h1>Hey, I'm Shahin 👋</h1>
+  <p>🎮 Learning Unity by building games in 2D and 3D</p>
+  <p>New projects, new skills, steady progress.</p>
+</div>
 
-🎮 **Unity game developer** creating playful worlds in 2D and 3D.
+## 🎮 Projects I'm building
 
-I enjoy building games, experimenting with gameplay, and bringing imaginative settings to life.
+| Game | What it is |
+| --- | --- |
+| [🚀 Last Descent](https://github.com/shaahinnn/Last-Descent) | A 3D sci-fi game set in a futuristic space colony. |
+| [🏎️ Peakbound](https://github.com/shaahinnn/Peakbound) | A 2D driving game inspired by *Hill Climb Racing*. |
 
-## Featured games
+## 🌱 My learning journey
 
-### 🚀 [Last Descent](https://github.com/shaahinnn/Last-Descent)
-A 3D sci-fi adventure set in a futuristic space colony. Explore neon-lit platforms as a small astronaut beneath a star-filled sky.
+I'm learning game development through hands-on Unity projects, exploring 2D driving gameplay and 3D sci-fi worlds as I grow my skills.
 
-### 🏎️ [Peakbound](https://github.com/shaahinnn/Peakbound)
-A 2D driving game inspired by *Hill Climb Racing*. Take on hilly terrain and keep your vehicle moving forward.
-
-## Tools
+## 🧰 Tools
 
 Unity · C# · ShaderLab
-
----
-
-*Thanks for stopping by!*
