@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Shahin 👋
 
-<!--
-**shaahinnn/shaahinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Unity game developer** creating playful worlds in 2D and 3D.
 
-Here are some ideas to get you started:
+I enjoy building games, experimenting with gameplay, and bringing imaginative settings to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured games
+
+### 🚀 [Last Descent](https://github.com/shaahinnn/Last-Descent)
+A 3D sci-fi adventure set in a futuristic space colony. Explore neon-lit platforms as a small astronaut beneath a star-filled sky.
+
+### 🏎️ [Peakbound](https://github.com/shaahinnn/Peakbound)
+A 2D driving game inspired by *Hill Climb Racing*. Take on hilly terrain and keep your vehicle moving forward.
+
+## Tools
+
+Unity · C# · ShaderLab
+
+---
+
+*Thanks for stopping by!*
