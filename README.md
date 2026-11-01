@@ -1,29 +1,21 @@
-<div align="center">
-  <h1>Hey, I'm Shahin 👋</h1>
-  <p>🎮 Learning Unity by building games in 2D and 3D</p>
-  <p>New projects, new skills, steady progress.</p>
-</div>
+# Shahin S M
 
-## 🎮 Projects I'm building
+**Unity Gameplay Programmer · C# · 2D & 3D Games**
 
-| Game | What it is |
-| --- | --- |
-| [🌆 Meet Me at Dusk](https://github.com/shaahinnn/Meet-Me-at-Dusk) | A pixel-art 2D platformer in a lantern-lit medieval town. Collect coins and treasure, cross perilous platforms, and avoid spike and blade traps. |
-| [🚀 Last Descent](https://github.com/shaahinnn/Last-Descent) | A 3D Unity sci-fi game in a futuristic space colony. Guide a tiny astronaut across neon-lit platforms and dark industrial areas. |
-| [🏎️ Peakbound](https://github.com/shaahinnn/Peakbound) | A 2D Unity hill-climb game: drive a red car across outdoor and rocky terrain while collecting coins and managing fuel. |
+I build Unity games and gameplay systems, including movement, physics, player interactions, hazards, and in-game UI. My portfolio includes 2D platforming and driving projects as well as a 3D sci-fi platformer.
 
-## 🎯 Games that inspire me
+[View my game development portfolio](https://shaahinnn.github.io/)
 
-I love combat-focused adventures like *Assassin's Creed* and *Prince of Persia*, along with horror games like Resident Evil.
+## Featured projects
 
-## 🚀 Future goal
+| Project | Gameplay work | Links |
+| --- | --- | --- |
+| **Peakbound** · 2D driving | Vehicle movement and physics, wheel rotation and balance, coin collection, fuel management, and pause/gameplay UI. | [Source](https://github.com/shaahinnn/Peakbound) · [Gameplay demo](https://github.com/shaahinnn/Peakbound/releases/download/demo-v1.0/PeakBound.mp4) |
+| **Last Descent** · 3D sci-fi platformer | 3D movement and platforming, hazards, a low-poly sci-fi environment, gameplay UI, and player feedback. | [Source](https://github.com/shaahinnn/Last-Descent) · [Gameplay demo](https://github.com/shaahinnn/Last-Descent/releases/download/demo-v1.0/Last.Descent.mp4) |
+| **Meet Me at Dusk** · 2D pixel-art platformer | Character movement, collectibles, platforms and hazards, settings, and gameplay UI. | [Source](https://github.com/shaahinnn/Meet-Me-at-Dusk) · [Gameplay demo](https://github.com/shaahinnn/Meet-Me-at-Dusk/releases/download/demo-v1.0/Meet.me.at.the.dusk.mp4) |
 
-I plan to create a game of my own in one of these genres.
-
-## 🌱 My learning journey
-
-I'm learning game development through hands-on Unity projects, from pixel-art 2D platformers and driving games to 3D sci-fi worlds.
-
-## 🧰 Tools
+## Tools
 
 Unity · C#
+
+I’m continuing to build, refine, and share playable projects.
